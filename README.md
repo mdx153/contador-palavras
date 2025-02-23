@@ -1,4 +1,4 @@
-# most-used-word
+# Contador de palavra
 
 ## Project setup
 ```
